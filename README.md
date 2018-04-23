@@ -1,14 +1,3 @@
 # vigenere
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+A set of clojure functions that can be used to find the encryption key for a vigenere cipher. It is not a complete program and was only used in a REPL environment to solve assignments in a cryptography class.
